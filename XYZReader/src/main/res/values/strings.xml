@@ -9,5 +9,6 @@
 
     <string name="up">Up</string>
     <string name="transition_name">transition_item</string>
+    <string name="photo_descript">Image of item</string>
 
 </resources>
